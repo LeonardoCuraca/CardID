@@ -30,6 +30,7 @@
             android:layout_height="wrap_content"
             android:text="Sarah Adams"
             android:textAlignment="center"
+            android:textColor="#ffffff"
             android:textSize="40sp"/>
 
         <TextView

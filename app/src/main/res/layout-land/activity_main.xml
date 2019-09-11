@@ -11,7 +11,7 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="45sp">
+        android:layout_margin="40dp">
 
         <LinearLayout
             android:id="@+id/linear"
@@ -43,13 +43,14 @@
                     android:layout_height="wrap_content"
                     android:text="@string/advantus"
                     android:textAlignment="center"
-                    android:textSize="55sp"/>
+                    android:textSize="45sp"/>
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Sarah Adams"
                     android:textAlignment="center"
+                    android:textColor="#ffffff"
                     android:textSize="40sp"/>
 
                 <TextView
@@ -57,6 +58,7 @@
                     android:layout_height="wrap_content"
                     android:text="@string/ventas"
                     android:textAlignment="center"
+
                     android:textSize="35sp"/>
 
             </LinearLayout>
